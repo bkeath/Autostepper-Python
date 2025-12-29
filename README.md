@@ -2,7 +2,7 @@
 AutoStepperPy – Automatic DDR/ITG StepChart Generator for StepMania
 [![Autostepper-Py Demo](https://img.youtube.com/vi/lvfqGceitJA/0.jpg)](https://www.youtube.com/watch?v=lvfqGceitJA)
 
-
+<br/>
 AutoStepperPy is a modern Python-based chart generator that creates DDR/ITG-style stepcharts (.sm files) for StepMania from your music and videos.
 
 Point it at a folder of songs, and it will:
