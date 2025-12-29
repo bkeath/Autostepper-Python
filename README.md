@@ -1,5 +1,6 @@
 # Autostepper-Python
 AutoStepperPy – Automatic DDR/ITG StepChart Generator for StepMania
+<br/>
 [![Autostepper-Py Demo](https://img.youtube.com/vi/lvfqGceitJA/0.jpg)](https://www.youtube.com/watch?v=lvfqGceitJA)
 
 <br/>
